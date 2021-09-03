@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tanjavaner
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me instagram.com/hrunyksl
